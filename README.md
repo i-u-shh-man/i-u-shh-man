@@ -29,13 +29,11 @@
 
 * **Expanding Horizons:** Dedicated to continuous learning and achieving greater proficiency across all domains of cybersecurity.
 * **Research Focus:** Actively exploring **Threat Intelligence** and **Digital Forensics** techniques.
-* **Skill Mastery:** Mastering advanced $Python$ scripting for automation and vulnerability scanning.
+* **Skill Mastery:** Mastering advanced $CYBERSECURITY$ CONCEPTS.
 
 ## 💡 Quick Facts
 
 * 📧 How to reach me: ayushmandas2909@gmail.com
-* 📊 Check out my GitHub stats below!
-
 ---
 
 ## 🔗 Connect With Me
@@ -45,15 +43,3 @@
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmandas2909@gmail.com)
 
 ---
-
-<div align="center">
-  <h3>🔥 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=i-u-shh-man&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ayushman Das GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-u-shh-man&layout=compact&theme=dark" alt="Ayushman Das Top Languages" />
-</div>
-
-<br>
-<p align="center">
-  *Scanning, analyzing, and building a more secure digital world.*
-</p>
