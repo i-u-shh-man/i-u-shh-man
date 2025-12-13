@@ -1,8 +1,9 @@
 # **ＡＹＵＳＨＭＡＮ ＤＡＳ**🥷 -  (ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴛʀᴀɪɴᴇᴇ &amp; ʀᴇꜱᴇᴀʀᴄʜᴇʀ)
 
 
-
-<img src="hola.gif" width="600" height="600">
+<p align="center">
+  <img src="hola.gif" width="800" height="800">
+</p>
 
 
 
@@ -29,13 +30,18 @@
 
 ---
 
-<img src="privateinvestocat.jpg" width="450" height="450">
+<p align="center">
+  <img src="privateinvestocat.jpg" width="450" height="450">
+</p>
+
 
 ## 🎯 Current Focus & Goals
 
 * **Expanding Horizons:** Dedicated to continuous learning and achieving greater proficiency across all domains of cybersecurity.
 * **Research Focus:** Actively exploring **Threat Intelligence** and **Digital Forensics** techniques.
 * **Skill Mastery:** Mastering advanced $CYBERSECURITY$ CONCEPTS.
+* **working on hands on projects and tasks to gain experience and expertise**
+* **Certificate courses from well-known organisations to showcase my knowledge-base**
 
 
 📧 How to reach me:
