@@ -1,8 +1,8 @@
-# **ＡＹＵＳＨＭＡＮ ＤＡＳ** 🥷
-ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴛʀᴀɪɴᴇᴇ &amp; ʀᴇꜱᴇᴀʀᴄʜᴇʀ
+# **ＡＹＵＳＨＭＡＮ ＤＡＳ**🥷 -  (ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴛʀᴀɪɴᴇᴇ &amp; ʀᴇꜱᴇᴀʀᴄʜᴇʀ)
 
-<img src="privateinvestocat.jpg" width="450" height="450">
 
+
+<img src="hola.gif" width="600" height="600">
 
 
 
@@ -28,6 +28,8 @@
 | **Productivity** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
 ---
+
+<img src="privateinvestocat.jpg" width="450" height="450">
 
 ## 🎯 Current Focus & Goals
 
