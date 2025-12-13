@@ -1,7 +1,9 @@
-# Hi there! I'm **Ayushman Das** 👋
-### *Cybersecurity Trainee & Researcher | Penetration Tester in Training*
+# **Ayushman Das** 🥷🏻
+### *Cybersecurity Trainee & Researcher*
 
----
+
+
+
 
 ## 💻 Programming Languages & Data
 
