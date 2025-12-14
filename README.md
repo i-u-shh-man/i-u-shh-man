@@ -40,7 +40,7 @@
 * **Expanding Horizons:** Dedicated to continuous learning and achieving greater proficiency across all domains of cybersecurity.
 * **Research Focus:** Actively exploring **Threat Intelligence** and **Digital Forensics** techniques.
 * **Skill Mastery:** Mastering advanced $CYBERSECURITY$ CONCEPTS.
-* **working on hands on projects and tasks to gain experience and expertise**
+* **Working on-hands on projects and tasks to gain experience and expertise**
 * **Certificate courses from well-known organisations to showcase my knowledge-base**
 
 
