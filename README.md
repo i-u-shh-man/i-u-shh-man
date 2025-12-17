@@ -6,8 +6,6 @@
 </p>
 
 
-
-
 ## 💻 Programming Languages
 
 > The foundational languages and interactive environments I use for scripting, development, and system analysis.
