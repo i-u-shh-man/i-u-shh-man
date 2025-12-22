@@ -42,7 +42,6 @@
 * **Certificate courses from well-known organisations** to showcase my knowledge-base
 
 
-
 📧 How to reach me:
 ----
 
